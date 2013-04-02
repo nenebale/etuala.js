@@ -50,7 +50,7 @@ Etuala = {
         Etuala.addClass( body, "etuala-active");
         Etuala.addClass( modal, "active");
         Etuala.addClass( cover, "active");
-      }, 0);
+      }, 20);
       cover.addEventListener("click",
       function () {
         Etuala.hideActiveModal();
