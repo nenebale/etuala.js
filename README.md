@@ -9,7 +9,7 @@ Inspired by [Avgrund]("https://github.com/hakimel/Avgrund").
 All animations are carefully made in CSS. Therefore etuala.js can only show its whole beauty in modern browsers. But it should also work in older ones.
 
 ## Usage
-* Get your copy of [etuala.js]("link to etual").
+* Get your copy of [etuala.js]("https://github.com/nenebale/etuala.js/blob/master/etuala.js.zip").
 * Link to etuala.min.js & etuala.min.css in your HTML (you may also include it into your own existing files for performance reasons).  
 
 > There is also a SCSS file for easy customisation - just choose your own values for the variables at the top & convert it to css!
