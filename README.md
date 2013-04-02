@@ -4,12 +4,14 @@
 
 etuala.js is a modern approach to modals, ready for being built into your HTML5 & CSS3 website. It's super light & blazing fast (8kb minified & gzipped).
 
-Inspired by [Avgrund](https://github.com/hakimel/Avgrund).
+[**Check it out!**](http://show.webcake.ch/etuala/)
+
+Inspired by [Avgrund]("https://github.com/hakimel/Avgrund").
 
 All animations are carefully made in CSS. Therefore etuala.js can only show its whole beauty in modern browsers. But it should also work in older ones.
 
 ## Usage
-* Get your copy of [etuala.js](https://github.com/nenebale/etuala.js/blob/master/etuala.js.zip).
+* Get your copy of [etuala.js]("link to etual").
 * Link to etuala.min.js & etuala.min.css in your HTML (you may also include it into your own existing files for performance reasons).  
 
 > There is also a SCSS file for easy customisation - just choose your own values for the variables at the top & convert it to css!
@@ -21,12 +23,17 @@ All animations are carefully made in CSS. Therefore etuala.js can only show its 
 * Initialize etuala.js in your own Javascript with `Etuala.init()`
 * As soon as someone clicks on the trigger, the modal is shown.
 
+## Future
+* The site will be **blured** when the modal is shown!
+* Nicer demo page ;)
+
+
 ## Contact
-For any questions, ask me on twitter [@nenebale](http://twitter.com/nenebale)
+For any questions, ask me on twitter [@nenebale]("http://twitter.com/nenebale")
 
 ## License
 
-Copyright (c) 2013 [Webcake Development & Design](http://www.webcake.ch/)
+Copyright (c) 2013 [Webcake Development & Design]("http://www.webcake.ch/")
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
