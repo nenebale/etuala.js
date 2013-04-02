@@ -23,8 +23,9 @@ All animations are carefully made in CSS. Therefore etuala.js can only show its 
 * Initialize etuala.js in your own Javascript with `Etuala.init()`
 * As soon as someone clicks on the trigger, the modal is shown.
 
-## Future
+## Future / Todo
 * The site will be **blured** when the modal is shown!
+* Documentation of available functions
 * Nicer demo page ;)
 
 
